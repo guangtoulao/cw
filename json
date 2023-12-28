@@ -134,3 +134,9 @@
         ]
       }
     },
+     { "name": "杰森", "type": 0, "url": "https://jx.jsonplayer.com/player/?url=" },
+ {
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
+    }, 
