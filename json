@@ -567,8 +567,8 @@
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
-  ]
-},
+  ],
+
  "lives": [
     {
       "name": "live",
@@ -589,3 +589,4 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
+  }
