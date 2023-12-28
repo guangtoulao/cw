@@ -111,35 +111,6 @@
 {"key":"drpy_js_胖虎","name":"起飞 | 胖虎[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/胖虎.js"},
 {"key":"drpy_js_555影视[飞]","name":"起飞 | 555影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555影视[飞].js"},
 {"key":"drpy_js_if101[飞]","name":"起飞 | if101[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/if101[飞].js"},
- {
-      "key": "玩偶哥哥",
-      "name": "玩偶哥哥┃已修复断流",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
-    {
-      "key": "九六",
-      "name": "九六┃直连",
-      "type": 3,
-      "api": "csp_Cs1369",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "一起看 ",
-      "name": "一起┃App",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
 
 {"key":"應用商店","name":"應用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext": "./json/market.json"},
 {"key":"bb","name":"配置接口完全免费","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
