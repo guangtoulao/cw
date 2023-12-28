@@ -53,17 +53,7 @@
       "ext": "[排序:lz线路,kuaik]",
       "jar": "http://itvbox.cc/sft/Hk/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa"
     },
-     {
-       "key":"瑞丰",
-       "name":"瑞丰",
-       "type":3,
-       "api":"csp_AppYsV2",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
-       "ext":"http://www.miniku.cc/xgapp.php/v2/",
-       "jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-       },
+
 {"key":"drpy_js_快看","name":"影视 | 快看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
 {"key":"drpy_js_爱看","name":"影视 | 爱看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 {"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys_d.js"},
